@@ -1,0 +1,21 @@
+# github.com/confluentinc/confluent-kafka-go v1.9.2
+## explicit; go 1.13
+github.com/confluentinc/confluent-kafka-go/kafka
+github.com/confluentinc/confluent-kafka-go/kafka/librdkafka_vendor
+# github.com/logiqai/hauler-common v0.0.0-20230406182444-560f4a8ca137
+## explicit; go 1.18
+github.com/logiqai/hauler-common
+# github.com/logiqai/utils/log v0.0.0-20230406163937-b5eaf092c799
+## explicit; go 1.18
+github.com/logiqai/utils/log
+# github.com/satori/go.uuid v1.2.0
+## explicit
+github.com/satori/go.uuid
+# github.com/sirupsen/logrus v1.9.0
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
